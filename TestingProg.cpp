@@ -19,7 +19,7 @@ template<class T>
 T IsUpperValue(T t1, T t2)
 {
 
-	return t2 > t1 ? t1: t1;
+	return t2 > t1 ? t2: t2;
 
 }
 
