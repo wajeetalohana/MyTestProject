@@ -30,7 +30,7 @@ int main()
 	int i = 1, j = 20;
 
 	
-    std::cout << "Hello World 123!\n"<< IsUpperValue(j,i);
+    std::cout << "Hello World!\n"<< IsUpperValue(j,i);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
